@@ -3,3 +3,5 @@ Jogo pong implementado para Multiplayer para a matéria de jogos digitais, profe
 
 
 Obs: Jogo criado mediante ajuda de alunos mais avançados do curso.
+
+Vamos lá se tornar avançado então, o mercado está necessitando!!!!
